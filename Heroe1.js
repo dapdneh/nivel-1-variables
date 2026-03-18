@@ -1,4 +1,4 @@
-fead:agregar ficha y narrativa de mi suoerheroe 
+feat:agregar ficha y narrativa de mi suoerheroe 
 //creacion de variables 
 let nombreHeroe = "hulk"; 
 let nivelEnergia = 80;
